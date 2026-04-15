@@ -1,0 +1,12 @@
+{
+  "name": "mr-manager",
+  "version": "1.0.2",
+  "description": "Wait-free object manager with per-type memory pools",
+  "homepage": "https://github.com/4J-company/mr-manager",
+  "license": "MIT",
+  "dependencies": [
+    "folly",
+    "vcpkg-cmake",
+    "vcpkg-cmake-config"
+  ]
+}

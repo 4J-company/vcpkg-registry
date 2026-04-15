@@ -1,0 +1,20 @@
+{
+  "default": {
+    "mr-importer": {
+      "baseline": "3.4.0",
+      "port-version": 0
+    },
+    "mr-manager": {
+      "baseline": "1.0.2",
+      "port-version": 0
+    },
+    "mr-math": {
+      "baseline": "1.1.5",
+      "port-version": 0
+    },
+    "mr-utils": {
+      "baseline": "1.1.2",
+      "port-version": 0
+    }
+  }
+}
